@@ -1,0 +1,17 @@
+  
+{
+  "name": "justin-hipchat",
+  "version": "0.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+  "test": "gulp test"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+  },
+  "dependencies": {
+  "node-hipchat": "^0.4.4"
+  }
+}
